@@ -1,0 +1,30 @@
+button{
+  background-color: #FAFBFC;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-sizing: border-box;
+  color: #24292E;
+  cursor: pointer;
+  font-family: -apple-system, system-ui, "Segoe UI";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  padding: 6px 16px;
+  height: 40px;
+  align-self: center;
+}
+
+.title-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    margin-bottom: 10px;
+}
+
+img {
+    border-radius: 50%;
+    width: 40px; 
+    height: 40px; 
+    flex-shrink: 0; 
+    margin-right: 10px; 
+}
