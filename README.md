@@ -1,4 +1,4 @@
-## kaleidocam
+## kaleidocam, https://kaleidocam.netlify.app/
 
 use yourself and the mouse as a medium! comp creativity m9 assignment!
 
